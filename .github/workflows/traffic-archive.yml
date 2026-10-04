@@ -2,8 +2,8 @@ name: Archive GitHub Traffic & Clones
 
 on:
   schedule:
-    # Runs every hour at the top of the hour (e.g. 01:00, 02:00, 03:00 UTC)
-    - cron: '0 * * * *'
+    # Runs daily at 01:00 UTC (after midnight to capture complete previous-day metrics)
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 # Prevent concurrent runs from colliding on git push
@@ -46,7 +46,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new traffic data to commit."
           else
-            git commit -m "chore(traffic): Update clone and visitor archive [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git commit -m "chore(traffic): Update clone and visitor archive [$(date -u +'%Y-%m-%d')]"
             # Pull latest changes with rebase before pushing to avoid non-fast-forward rejection
             git pull --rebase origin main
             git push origin main
