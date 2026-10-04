@@ -1,0 +1,43 @@
+name: Archive GitHub Traffic & Clones
+
+on:
+  schedule:
+    # Runs daily at 01:00 UTC (after midnight to capture complete previous-day metrics)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  archive-traffic:
+    name: Track & Archive Clones
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and Archive Traffic Analytics
+        env:
+          TRAFFIC_ACTION_TOKEN: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+          OUTPUT_DIR: .
+        run: |
+          python scripts/archive_traffic.py
+
+      - name: Commit and Push Updated Traffic Data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          if git diff --staged --quiet; then
+            echo "No new traffic data to commit today."
+          else
+            git commit -m "chore(traffic): Update clone and visitor archive [$(date -u +'%Y-%m-%d')]"
+            git push origin main
+          fi
