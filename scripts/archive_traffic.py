@@ -2,7 +2,7 @@
 """
 GitHub Traffic & Clone Archiver for @apravint
 Archives clone and view traffic beyond GitHub's 14-day limit.
-https://github.com/apravint/omarchy-ubuntu
+https://github.com/apravint/github-traffic
 """
 
 import os
