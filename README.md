@@ -1,7 +1,7 @@
 # 📈 GitHub Traffic & Clone Archive (`@apravint`)
 Automated permanent traffic analytics preserving clone and visitor records beyond GitHub's 14-day window.
 
-**Last Updated:** `2026-10-05 03:30:55 UTC`  
+**Last Updated:** `2026-10-05 06:30:50 UTC`  
 **Active Monitored Repositories:** `32`  
 **Total Clones (14-day rolling):** `1,022`  
 **Total Cumulative Clones Tracked:** `1,024`
@@ -10,7 +10,7 @@ Automated permanent traffic analytics preserving clone and visitor records beyon
 | Repository | Clones (Last 14d) | Lifetime Clones | Views (Last 14d) | Stars | History |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 | **[website](https://github.com/apravint/website)** | `401 (153 unique)` | **`402`** | `89 (4 unique)` | ⭐ 0 | [clones.csv](data/website/clones.csv) |
-| **[omarchy-ubuntu](https://github.com/apravint/omarchy-ubuntu)** | `370 (154 unique)` | **`370`** | `216 (45 unique)` | ⭐ 0 | [clones.csv](data/omarchy-ubuntu/clones.csv) |
+| **[omarchy-ubuntu](https://github.com/apravint/omarchy-ubuntu)** | `370 (154 unique)` | **`370`** | `216 (45 unique)` | ⭐ 1 | [clones.csv](data/omarchy-ubuntu/clones.csv) |
 | **[BookGeneratorAI](https://github.com/apravint/BookGeneratorAI)** | `68 (49 unique)` | **`68`** | `92 (9 unique)` | ⭐ 0 | [clones.csv](data/BookGeneratorAI/clones.csv) |
 | **[termux-dotfiles](https://github.com/apravint/termux-dotfiles)** | `31 (20 unique)` | **`31`** | `1 (1 unique)` | ⭐ 0 | [clones.csv](data/termux-dotfiles/clones.csv) |
 | **[dual-desktop-ubuntu](https://github.com/apravint/dual-desktop-ubuntu)** | `21 (14 unique)` | **`21`** | `4 (1 unique)` | ⭐ 0 | [clones.csv](data/dual-desktop-ubuntu/clones.csv) |
