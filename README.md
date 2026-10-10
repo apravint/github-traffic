@@ -1,15 +1,15 @@
 # 📈 GitHub Traffic & Clone Archive (`@apravint`)
 Automated permanent traffic analytics preserving clone and visitor records beyond GitHub's 14-day window.
 
-**Last Updated:** `2026-10-10 06:39:21 UTC`  
-**Active Monitored Repositories:** `47`  
+**Last Updated:** `2026-10-10 10:19:14 UTC`  
+**Active Monitored Repositories:** `52`  
 **Total Clones (14-day rolling):** `2,625`  
 **Total Cumulative Clones Tracked:** `2,985`
 
 ## 🏆 Traffic & Clone Leaderboard
 | Repository | Clones (Last 14d) | Lifetime Clones | Views (Last 14d) | Stars | History |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| **[omarchy-ubuntu](https://github.com/apravint/omarchy-ubuntu)** | `846 (303 unique)` | **`846`** | `468 (86 unique)` | ⭐ 4 | [clones.csv](data/omarchy-ubuntu/clones.csv) |
+| **[iram-os](https://github.com/apravint/iram-os)** | `846 (303 unique)` | **`846`** | `468 (86 unique)` | ⭐ 5 | [clones.csv](data/iram-os/clones.csv) |
 | **[website](https://github.com/apravint/website)** | `99 (46 unique)` | **`431`** | `15 (5 unique)` | ⭐ 0 | [clones.csv](data/website/clones.csv) |
 | **[github-traffic](https://github.com/apravint/github-traffic)** | `281 (118 unique)` | **`281`** | `127 (1 unique)` | ⭐ 0 | [clones.csv](data/github-traffic/clones.csv) |
 | **[omarchy-launcher-android](https://github.com/apravint/omarchy-launcher-android)** | `267 (101 unique)` | **`267`** | `115 (3 unique)` | ⭐ 0 | [clones.csv](data/omarchy-launcher-android/clones.csv) |
