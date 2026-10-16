@@ -1,10 +1,10 @@
 # 📈 GitHub Traffic & Clone Archive (`@apravint`)
 Automated permanent traffic analytics preserving clone and visitor records beyond GitHub's 14-day window.
 
-**Last Updated:** `2026-10-15 20:10:12 UTC`  
+**Last Updated:** `2026-10-16 05:23:08 UTC`  
 **Active Monitored Repositories:** `56`  
-**Total Clones (14-day rolling):** `3,887`  
-**Total Cumulative Clones Tracked:** `4,390`
+**Total Clones (14-day rolling):** `3,889`  
+**Total Cumulative Clones Tracked:** `4,392`
 
 ## 🏆 Traffic & Clone Leaderboard
 | Repository | Clones (Last 14d) | Lifetime Clones | Views (Last 14d) | Stars | History |
@@ -12,7 +12,7 @@ Automated permanent traffic analytics preserving clone and visitor records beyon
 | **[iram-os](https://github.com/apravint/iram-os)** | `1343 (484 unique)` | **`1,343`** | `646 (100 unique)` | ⭐ 5 | [clones.csv](data/iram-os/clones.csv) |
 | **[github-traffic](https://github.com/apravint/github-traffic)** | `482 (179 unique)` | **`482`** | `185 (1 unique)` | ⭐ 0 | [clones.csv](data/github-traffic/clones.csv) |
 | **[website](https://github.com/apravint/website)** | `38 (21 unique)` | **`436`** | `16 (7 unique)` | ⭐ 0 | [clones.csv](data/website/clones.csv) |
-| **[omarchy-launcher-android](https://github.com/apravint/omarchy-launcher-android)** | `271 (105 unique)` | **`271`** | `121 (6 unique)` | ⭐ 0 | [clones.csv](data/omarchy-launcher-android/clones.csv) |
+| **[omarchy-launcher-android](https://github.com/apravint/omarchy-launcher-android)** | `272 (106 unique)` | **`272`** | `121 (6 unique)` | ⭐ 0 | [clones.csv](data/omarchy-launcher-android/clones.csv) |
 | **[BookGeneratorAI](https://github.com/apravint/BookGeneratorAI)** | `127 (75 unique)` | **`182`** | `34 (2 unique)` | ⭐ 0 | [clones.csv](data/BookGeneratorAI/clones.csv) |
 | **[video-gen](https://github.com/apravint/video-gen)** | `140 (83 unique)` | **`140`** | `45 (1 unique)` | ⭐ 0 | [clones.csv](data/video-gen/clones.csv) |
 | **[mira-browser-android](https://github.com/apravint/mira-browser-android)** | `119 (61 unique)` | **`119`** | `22 (6 unique)` | ⭐ 0 | [clones.csv](data/mira-browser-android/clones.csv) |
@@ -24,8 +24,8 @@ Automated permanent traffic analytics preserving clone and visitor records beyon
 | **[mira-math-android](https://github.com/apravint/mira-math-android)** | `52 (31 unique)` | **`52`** | `5 (1 unique)` | ⭐ 0 | [clones.csv](data/mira-math-android/clones.csv) |
 | **[termux-dotfiles](https://github.com/apravint/termux-dotfiles)** | `51 (34 unique)` | **`51`** | `4 (1 unique)` | ⭐ 0 | [clones.csv](data/termux-dotfiles/clones.csv) |
 | **[polymind-ai](https://github.com/apravint/polymind-ai)** | `49 (31 unique)` | **`49`** | `3 (1 unique)` | ⭐ 0 | [clones.csv](data/polymind-ai/clones.csv) |
+| **[toolgate](https://github.com/apravint/toolgate)** | `47 (33 unique)` | **`47`** | `3 (1 unique)` | ⭐ 0 | [clones.csv](data/toolgate/clones.csv) |
 | **[claw-termux-agent](https://github.com/apravint/claw-termux-agent)** | `47 (30 unique)` | **`47`** | `5 (1 unique)` | ⭐ 0 | [clones.csv](data/claw-termux-agent/clones.csv) |
-| **[toolgate](https://github.com/apravint/toolgate)** | `46 (32 unique)` | **`46`** | `3 (1 unique)` | ⭐ 0 | [clones.csv](data/toolgate/clones.csv) |
 | **[windows-11-launcher-android](https://github.com/apravint/windows-11-launcher-android)** | `45 (26 unique)` | **`45`** | `8 (2 unique)` | ⭐ 0 | [clones.csv](data/windows-11-launcher-android/clones.csv) |
 | **[omarchy-windows](https://github.com/apravint/omarchy-windows)** | `45 (28 unique)` | **`45`** | `6 (2 unique)` | ⭐ 0 | [clones.csv](data/omarchy-windows/clones.csv) |
 | **[tamil-ai-suite](https://github.com/apravint/tamil-ai-suite)** | `43 (31 unique)` | **`43`** | `17 (2 unique)` | ⭐ 0 | [clones.csv](data/tamil-ai-suite/clones.csv) |
@@ -41,7 +41,7 @@ Automated permanent traffic analytics preserving clone and visitor records beyon
 | **[iram-themes](https://github.com/apravint/iram-themes)** | `26 (23 unique)` | **`26`** | `5 (2 unique)` | ⭐ 0 | [clones.csv](data/iram-themes/clones.csv) |
 | **[agent-tree](https://github.com/apravint/agent-tree)** | `26 (16 unique)` | **`26`** | `3 (2 unique)` | ⭐ 0 | [clones.csv](data/agent-tree/clones.csv) |
 | **[monologue](https://github.com/apravint/monologue)** | `25 (17 unique)` | **`25`** | `5 (1 unique)` | ⭐ 0 | [clones.csv](data/monologue/clones.csv) |
-| **[storytold-craft-linux](https://github.com/apravint/storytold-craft-linux)** | `24 (20 unique)` | **`24`** | `16 (7 unique)` | ⭐ 0 | [clones.csv](data/storytold-craft-linux/clones.csv) |
+| **[storytold-craft-linux](https://github.com/apravint/storytold-craft-linux)** | `24 (20 unique)` | **`24`** | `17 (8 unique)` | ⭐ 0 | [clones.csv](data/storytold-craft-linux/clones.csv) |
 | **[omarchy-launcher-win11](https://github.com/apravint/omarchy-launcher-win11)** | `22 (17 unique)` | **`22`** | `4 (3 unique)` | ⭐ 0 | [clones.csv](data/omarchy-launcher-win11/clones.csv) |
 | **[qodex](https://github.com/apravint/qodex)** | `21 (16 unique)` | **`21`** | `6 (1 unique)` | ⭐ 0 | [clones.csv](data/qodex/clones.csv) |
 | **[smart-router](https://github.com/apravint/smart-router)** | `18 (12 unique)` | **`18`** | `2 (1 unique)` | ⭐ 0 | [clones.csv](data/smart-router/clones.csv) |
